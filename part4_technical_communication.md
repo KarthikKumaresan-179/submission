@@ -1,0 +1,7 @@
+The MetaGPT repository PR #1061 was selected primarily due to the fact that the project scope and functionality are more relatable to me than other infrastructure-related pull requests due to their size and/or complexity. Specifically, this PR is around the workflow of AI agents in their interaction and execution (as well as, how the project helps to improve the overall reliability of the framework). Since my background is in developing Python-based AI systems and creating backend workflows, I have a good understanding of the changes and how they are used to help increase the reliability of the meta AI framework.
+
+A second reason for selecting this PR was that the modification was modular in nature and focused on improving existing execution behaviour instead of creating a new execution subsystem. This made it much easier to follow the workflow, identify the components impacted, and evaluate how the implementation increases stability when using multiple AI agents.
+
+I have a background in Python programming, machine learning, and AI-based applications. This also helps me to understand concepts such as asynchronous workflow execution, how to handle validation, and how to write modular software. I also have developed many applications that involve workflow automation, real-time processing, and backend logic to help with my understanding of this pull request. 
+
+One of the biggest challenges I foresee in implementation is the ability to understand.
